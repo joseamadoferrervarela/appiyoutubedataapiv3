@@ -4,7 +4,7 @@ import {App} from './api12/App.jsx'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+  
     <App />
-  </React.StrictMode>
+ 
 )
